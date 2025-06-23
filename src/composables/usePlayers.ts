@@ -35,7 +35,7 @@ export function usePlayers() {
 
     const putPlayer = async (): Promise<void> => {
         try {
-            
+            console.log('git test')
         }catch (e) {
 
         }
